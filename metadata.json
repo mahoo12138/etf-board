@@ -1,0 +1,6 @@
+{
+  "name": "国资资金脉搏 · A股国家队ETF与重点指数监控看板",
+  "description": "面向中国A股的国家队重仓宽基ETF资金流向、中央汇金持仓估值、科创50与中证红利指数趋势对比及实时异动预警看板，支持同花顺金融数据API与Vercel一键部署。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
